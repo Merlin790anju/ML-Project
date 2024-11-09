@@ -37,17 +37,12 @@ The Traffic Prediction App is a Streamlit-based web application designed to pred
 
 ## Usage
 
-1. Run the `up.sh` script to set up the environment (if necessary):
-    ```sh
-    ./up.sh
-    ```
-
-2. Start the Streamlit app:
+1. Start the Streamlit app:
     ```sh
     streamlit run app.py
     ```
 
-3. Open your browser and navigate to `http://localhost:8501` to access the app.
+2. Open your browser and navigate to `http://localhost:8501` to access the app.
 
 ## App Structure
 
